@@ -1,0 +1,90 @@
+json
+{
+  "name": "Tanmay Mathur",
+  "contact": {
+    "phone": "+91-9785889892",
+    "email": "tr1533@srmist.edu.in",
+    "linkedin": "https://www.linkedin.com/in/tanmay-mathur-2a7383220/"
+  },
+  "address": {
+    "current": "20, Anand Nagar, Ajmer, India, Ajmer, Rajasthan, India - 305001"
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science & Technology, Ghaziabad",
+      "degree": "B.Tech. - CSE - Artificial Intelligence & Machine Learning",
+      "duration": "2021 - 2025",
+      "cgpa": "8.98 / 10"
+    },
+    {
+      "institution": "The Turning Point Public School, Ajmer",
+      "degree": "12th",
+      "duration": "2021",
+      "percentage": "86.20 / 100"
+    },
+    {
+      "institution": "St. Stephen's Sr. Sec. School, Ajmer",
+      "degree": "10th",
+      "duration": "2019",
+      "percentage": "92.60 / 100"
+    }
+  ],
+  "internships": [
+    {
+      "company": "Saaskart",
+      "title": "Associate Data Engineer",
+      "duration": "01 Apr, 2024 - Present",
+      "achievements": [
+        "Designed and implemented a chatbot utilizing Retrieval Augmented Generation (RAG) techniques",
+        "Implemented prompt shielding techniques to ensure the chatbot responds appropriately to sensitive or potentially harmful prompts",
+        "Utilized SQL to manage and query databases for retrieving relevant information for the chatbot responses",
+        "Developed and maintained JSON files to store and organize data used by the chatbot for various functionalities"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "User Intent Analysis and Beneficial User Identification",
+      "duration": "01 Jun, 2024 - 03 Jun, 2024",
+      "mentor": "Naman Vyas",
+      "key_skills": ["NLP", "Machine Learning", "Data Analysis", "Python", "Matplotlib", "SQL"],
+      "project_link": "https://github.com/Tanmaymathur03?tab=repositories",
+      "description": "Developed a robust system designed to analyze user intents from website interactions and identify users who are beneficial to the website"
+    },
+    {
+      "title": "Chat Bot",
+      "duration": "15 May, 2024 - 20 May, 2024",
+      "mentor": "Naman Vyas",
+      "team_size": 2,
+      "key_skills": ["Deep Learning", "Information Retrieval", "RAG", "Vector Database", "NLP", "NLTK", "Python"],
+      "project_link": "https://github.com/Tanmaymathur03?tab=repositories",
+      "description": "Developed a sophisticated AI-powered chatbot capable of engaging in user interactions"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "duration": "07 Dec, 2023 - 20 Dec, 2023",
+      "key_skills": ["Jupyter Notebook", "Machine Learning"],
+      "project_link": "https://github.com/Tanmaymathur03?tab=repositories",
+      "description": "Processed a movie dataset comprising over 5,000 entries and incorporated over 20 features including genre and user ratings for recommendation generation"
+    }
+  ],
+  "achievements": [
+    "Secured top rank in Internet Of Things Workshop (IIT Varanasi)",
+    "Scored 90%, achieving placement in the top 1% of the NPTEL course of Introduction to Machine Learning (IIT KGP)"
+  ],
+  "assessments_certifications": [
+    {
+      "title": "Artificial Intelligence A-Z",
+      "key_skills": ["Pytorch", "Keras", "AI", "Data Visualization"],
+      "description": "Acquired a profound understanding of diverse AI concepts and techniques"
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "aggregate": "90 / 100",
+      "key_skills": ["ML", "Linear Regression", "Naive Bayes", "K-Means Clustering", "Random Forest"],
+      "description": "Completed the 'Introduction to Machine Learning' course by IITKGP through NPTEL"
+    },
+    {
+      "title": "Design and Analysis of Algorithms",
+      "key_skills": ["Algorithmic Problem Solving", "Programming Proficiency", "Optimization Techniques", "Critical Thinking", "Data Structures"]
+    }
